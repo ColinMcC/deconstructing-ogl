@@ -14,8 +14,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur dictum mollis
 ## bookmark
 -  Ugarit: [http://ugarit.ialigner.com/]( http://ugarit.ialigner.com/)
 
+<br/>
+
 ## download, install & register
 - Please register for an account with Ugarit.
+
+
+<br/>
 
 ## recommended reading
 - *TBA*
