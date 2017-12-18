@@ -9,7 +9,9 @@ color: white
 
 #### Chiara Palladino (Leipzig)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur dictum mollis congue. Curabitur faucibus mollis elementum. In porta a augue non porttitor. Pellentesque ullamcorper eleifend risus, vel sollicitudin ipsum vehicula eu. Sed non mauris nec enim molestie tristique. Cras congue mi sit amet velit lacinia pulvinar. Suspendisse vel est ac est dictum bibendum. Morbi enim nunc, volutpat pharetra interdum quis, pharetra non ligula. Mauris interdum tellus neque.
+In this module, participants will:
+
+- Learn to match words and phrases—whether between an original and a translation or between two translations—to build machine-actionable texts for processing
 
 <br/>
 
